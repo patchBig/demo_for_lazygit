@@ -1,0 +1,287 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.icon-piece {
+  position: absolute;
+  top: 0;
+  left: 294;
+  width: 18;
+  height: 18;
+  white-space: normal;
+}
+.col-item0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.tag {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #666666;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #666666;
+  font-size: 38;
+  font-weight: 400;
+}
+.icon-complete {
+  position: relative;
+  margin-top: 4;
+  width: 20;
+  height: 20;
+  white-space: normal;
+}
+.col-item1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.label {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #666666;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num-1 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #666666;
+  font-size: 38;
+  font-weight: 400;
+}
+.icon {
+  position: relative;
+  margin-top: 4;
+  width: 20;
+  height: 20;
+  white-space: normal;
+}
+.col3-item0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.word {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #666666;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num-2 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #666666;
+  font-size: 38;
+  font-weight: 400;
+}
+.col4 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.tag-1 {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #333333;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 600;
+}
+.num-3 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #333333;
+  font-size: 38;
+  font-weight: 400;
+}
+.col3-item1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.label-1 {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #b2b2b2;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num-4 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #b2b2b2;
+  font-size: 38;
+  font-weight: 400;
+}
+.col3-item2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 8;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.word-1 {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #b2b2b2;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num-5 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #b2b2b2;
+  font-size: 38;
+  font-weight: 400;
+}
+.col3-item3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 8;
+  background-color: rgba(0, 0, 0, 0.02);
+  width: 90;
+  height: 140;
+  overflow: hidden;
+}
+.tag-2 {
+  position: relative;
+  margin-top: 16;
+  max-width: 78;
+  height: 34;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 34;
+  color: #b2b2b2;
+  font-family: PingFang SC;
+  font-size: 24;
+  font-weight: 400;
+}
+.num-6 {
+  position: relative;
+  margin-top: 8;
+  max-width: 78;
+  height: 42;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 42;
+  color: #b2b2b2;
+  font-size: 38;
+  font-weight: 400;
+}
