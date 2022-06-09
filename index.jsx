@@ -8,6 +8,7 @@ import styles from './style.css';
 
 class Block_0 extends Component {
   state = {};
+  console.log('xxxx');
   render() {
     return (
       <View style={styles.mod}>
